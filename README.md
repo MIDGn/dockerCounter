@@ -1,4 +1,7 @@
 Загрузка образа из Docker Hub
-docker pull midgn/docker:counter
+
+``docker pull midgn/docker:counter``
+
 Запуск контейнера
-docker run -i -p 8080:8080 midgn/docker:counter
+
+``docker run -i -p 8080:8080 midgn/docker:counter``
